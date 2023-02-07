@@ -1,0 +1,42 @@
+.sobre{
+    background: rgb(255,255,255);
+    background: linear-gradient(270deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 100%);
+    height: 20em;
+    margin-top: 10rem;
+    margin-bottom: 10rem
+}
+
+.quem-sou {
+    font-size: 5rem;
+    margin: 2rem 0 0 15rem;
+}
+
+.sobre-paragrafo {
+    width: 40rem;
+    margin: 0.5rem 0 0 5rem;
+}
+
+.container-img {
+    margin-top: 5rem;
+}
+
+.habilidades{
+    margin-left: 60rem;
+    margin-top: -13rem;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.habilidades-container {
+    display: flex;
+    width: 10rem;
+    margin-left: 50rem;
+    justify-items: baseline;
+}
+
+.habilidades-img {
+    width: 8rem;
+    padding: 2rem;
+}
+
+
